@@ -1,0 +1,595 @@
+**********MOVIE INFO*********
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+**********SONG INFO*********
+0
+song name: i wanna be your girlfriend
+preview song: https://p.scdn.co/mp3-preview/18ad7cff208417f8ae2333df61f9b6eef29a321c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: i wanna be your girlfriend
+artist(s): girl in red
+*****************************
+**********SONG INFO*********
+1
+song name: Only Wanna Be with You
+preview song: https://p.scdn.co/mp3-preview/26646342adf596713462ac6eba52a61340df467c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Cracked Rear View
+artist(s): Hootie & The Blowfish
+*****************************
+**********SONG INFO*********
+2
+song name: Wanna Be A Baller
+preview song: null
+album: Sittin' Fat Down South
+artist(s): Lil' Troy
+*****************************
+**********SONG INFO*********
+3
+song name: Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)
+preview song: https://p.scdn.co/mp3-preview/672cc8954f99420acc9d239ec8441b27dc169a0b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: MONTANA
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+4
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/fc73c063ee31a4f83ed304d9300c21123004a3d7?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Wanna Be Yours
+artist(s): Pink Sweat$
+*****************************
+**********SONG INFO*********
+5
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/5d1d62b38720459927a1ceb2f59d4e5c7b172170?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: AM
+artist(s): Arctic Monkeys
+*****************************
+**********SONG INFO*********
+6
+song name: Wanna Be That Song
+preview song: https://p.scdn.co/mp3-preview/d48c1ac6b1684169e5204e5bc3545c0791191be1?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Illinois
+artist(s): Brett Eldredge
+*****************************
+**********SONG INFO*********
+7
+song name: Where I Wanna Be
+preview song: https://p.scdn.co/mp3-preview/dba288fa2941bcbf369f7daa6ba45c00a9681e13?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Where I Wanna Be
+artist(s): Donell Jones
+*****************************
+**********SONG INFO*********
+8
+song name: I Wanna Be Down
+preview song: https://p.scdn.co/mp3-preview/2dbcf81b91b4879e58fe6c67d3e1691a31235931?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+9
+song name: I Wanna Be Sedated
+preview song: https://p.scdn.co/mp3-preview/a317a5a0c0599a999291b478e1587a7de72d73d4?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (40th Anniversary Deluxe Edition)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+10
+song name: Wanna Be
+preview song: https://p.scdn.co/mp3-preview/e38f1b053d05a105a15b4c1f9ba37fd02151483b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Hive Mind
+artist(s): The Internet
+*****************************
+**********SONG INFO*********
+11
+song name: I Wanna Be Your Lover
+preview song: https://p.scdn.co/mp3-preview/8215394e91ff470f57564c37763951e8e8923a44?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Prince
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+12
+song name: Don't Wanna Be Your Girl
+preview song: https://p.scdn.co/mp3-preview/79319393f1b3e19873dafbc42bd85d776709d1ea?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Wet
+artist(s): Wet
+*****************************
+**********SONG INFO*********
+13
+song name: I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix
+preview song: https://p.scdn.co/mp3-preview/cfa43091273e55dd3b0c46de7b40a6878142063c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Best Of Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+14
+song name: I Wanna Be Sedated - 2002 Remaster
+preview song: https://p.scdn.co/mp3-preview/cfa53952db880c0de0eeafd360d7960ac73ff52c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (Expanded 2005 Remaster)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+15
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+16
+song name: If You Ever Wanna Be In Love - James Bay Spotify Session 2015
+preview song: null
+album: James Bay Spotify Session 2015
+artist(s): James Bay
+*****************************
+**********SONG INFO*********
+17
+song name: I Don't Wanna Go
+preview song: null
+album: I'll Be The Branches
+artist(s): Chris Renzema
+*****************************
+**********SONG INFO*********
+18
+song name: I Wanna Be Your Dog
+preview song: https://p.scdn.co/mp3-preview/e19c890c575f687e58fff7689b57c817fbda3e5e?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Stooges
+artist(s): The Stooges
+*****************************
+**********SONG INFO*********
+19
+song name: I Don't Wanna Be Funny Anymore
+preview song: https://p.scdn.co/mp3-preview/956c8b58aba8433f800f42b04be0a63e57b564d9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: No Burden
+artist(s): Lucy Dacus
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/1d50efde33a0dcbf6f55b862c5d0aafdd9f8e51e?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Go Country
+artist(s): Coffey Anderson
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/6df704bcaee02f82fefacbfaaca2ab8858119947?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: & Juliet (Original London Cast Recording)
+artist(s): Cassidy Janson
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8523cf42da67b41a5fce8f56c9dfd14d5ecb39a5?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Musicbox
+artist(s): Nineties Legends
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+0
+song name: i wanna be your girlfriend
+preview song: https://p.scdn.co/mp3-preview/18ad7cff208417f8ae2333df61f9b6eef29a321c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: i wanna be your girlfriend
+artist(s): girl in red
+*****************************
+**********SONG INFO*********
+1
+song name: Only Wanna Be with You
+preview song: https://p.scdn.co/mp3-preview/26646342adf596713462ac6eba52a61340df467c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Cracked Rear View
+artist(s): Hootie & The Blowfish
+*****************************
+**********SONG INFO*********
+2
+song name: Wanna Be A Baller
+preview song: null
+album: Sittin' Fat Down South
+artist(s): Lil' Troy
+*****************************
+**********SONG INFO*********
+3
+song name: Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)
+preview song: https://p.scdn.co/mp3-preview/672cc8954f99420acc9d239ec8441b27dc169a0b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: MONTANA
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+4
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/fc73c063ee31a4f83ed304d9300c21123004a3d7?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Wanna Be Yours
+artist(s): Pink Sweat$
+*****************************
+**********SONG INFO*********
+5
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/5d1d62b38720459927a1ceb2f59d4e5c7b172170?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: AM
+artist(s): Arctic Monkeys
+*****************************
+**********SONG INFO*********
+6
+song name: Wanna Be That Song
+preview song: https://p.scdn.co/mp3-preview/d48c1ac6b1684169e5204e5bc3545c0791191be1?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Illinois
+artist(s): Brett Eldredge
+*****************************
+**********SONG INFO*********
+7
+song name: Where I Wanna Be
+preview song: https://p.scdn.co/mp3-preview/dba288fa2941bcbf369f7daa6ba45c00a9681e13?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Where I Wanna Be
+artist(s): Donell Jones
+*****************************
+**********SONG INFO*********
+8
+song name: I Wanna Be Down
+preview song: https://p.scdn.co/mp3-preview/2dbcf81b91b4879e58fe6c67d3e1691a31235931?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+9
+song name: I Wanna Be Sedated
+preview song: https://p.scdn.co/mp3-preview/a317a5a0c0599a999291b478e1587a7de72d73d4?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (40th Anniversary Deluxe Edition)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+10
+song name: Wanna Be
+preview song: https://p.scdn.co/mp3-preview/e38f1b053d05a105a15b4c1f9ba37fd02151483b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Hive Mind
+artist(s): The Internet
+*****************************
+**********SONG INFO*********
+11
+song name: I Wanna Be Your Lover
+preview song: https://p.scdn.co/mp3-preview/8215394e91ff470f57564c37763951e8e8923a44?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Prince
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+12
+song name: Don't Wanna Be Your Girl
+preview song: https://p.scdn.co/mp3-preview/79319393f1b3e19873dafbc42bd85d776709d1ea?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Wet
+artist(s): Wet
+*****************************
+**********SONG INFO*********
+13
+song name: I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix
+preview song: https://p.scdn.co/mp3-preview/cfa43091273e55dd3b0c46de7b40a6878142063c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Best Of Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+14
+song name: I Wanna Be Sedated - 2002 Remaster
+preview song: https://p.scdn.co/mp3-preview/cfa53952db880c0de0eeafd360d7960ac73ff52c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (Expanded 2005 Remaster)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+15
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+16
+song name: I Don't Wanna Go
+preview song: null
+album: I'll Be The Branches
+artist(s): Chris Renzema
+*****************************
+**********SONG INFO*********
+17
+song name: If You Ever Wanna Be In Love - James Bay Spotify Session 2015
+preview song: null
+album: James Bay Spotify Session 2015
+artist(s): James Bay
+*****************************
+**********SONG INFO*********
+18
+song name: I Wanna Be Your Dog
+preview song: https://p.scdn.co/mp3-preview/e19c890c575f687e58fff7689b57c817fbda3e5e?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Stooges
+artist(s): The Stooges
+*****************************
+**********SONG INFO*********
+19
+song name: I Don't Wanna Be Funny Anymore
+preview song: https://p.scdn.co/mp3-preview/956c8b58aba8433f800f42b04be0a63e57b564d9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: No Burden
+artist(s): Lucy Dacus
+*****************************
+**********MOVIE INFO*********
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+**********SONG INFO*********
+0
+song name: i wanna be your girlfriend
+preview song: https://p.scdn.co/mp3-preview/18ad7cff208417f8ae2333df61f9b6eef29a321c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: i wanna be your girlfriend
+artist(s): girl in red
+*****************************
+**********SONG INFO*********
+1
+song name: Only Wanna Be with You
+preview song: https://p.scdn.co/mp3-preview/26646342adf596713462ac6eba52a61340df467c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Cracked Rear View
+artist(s): Hootie & The Blowfish
+*****************************
+**********SONG INFO*********
+2
+song name: Wanna Be A Baller
+preview song: null
+album: Sittin' Fat Down South
+artist(s): Lil' Troy
+*****************************
+**********SONG INFO*********
+3
+song name: Wanna Be (feat. PARTYNEXTDOOR & London On Da Track)
+preview song: https://p.scdn.co/mp3-preview/672cc8954f99420acc9d239ec8441b27dc169a0b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: MONTANA
+artist(s): French Montana
+*****************************
+**********SONG INFO*********
+4
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/fc73c063ee31a4f83ed304d9300c21123004a3d7?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: I Wanna Be Yours
+artist(s): Pink Sweat$
+*****************************
+**********SONG INFO*********
+5
+song name: I Wanna Be Yours
+preview song: https://p.scdn.co/mp3-preview/5d1d62b38720459927a1ceb2f59d4e5c7b172170?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: AM
+artist(s): Arctic Monkeys
+*****************************
+**********SONG INFO*********
+6
+song name: Wanna Be That Song
+preview song: https://p.scdn.co/mp3-preview/d48c1ac6b1684169e5204e5bc3545c0791191be1?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Illinois
+artist(s): Brett Eldredge
+*****************************
+**********SONG INFO*********
+7
+song name: Where I Wanna Be
+preview song: https://p.scdn.co/mp3-preview/dba288fa2941bcbf369f7daa6ba45c00a9681e13?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Where I Wanna Be
+artist(s): Donell Jones
+*****************************
+**********SONG INFO*********
+8
+song name: I Wanna Be Down
+preview song: https://p.scdn.co/mp3-preview/2dbcf81b91b4879e58fe6c67d3e1691a31235931?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+9
+song name: I Wanna Be Sedated
+preview song: https://p.scdn.co/mp3-preview/a317a5a0c0599a999291b478e1587a7de72d73d4?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (40th Anniversary Deluxe Edition)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+10
+song name: Wanna Be
+preview song: https://p.scdn.co/mp3-preview/e38f1b053d05a105a15b4c1f9ba37fd02151483b?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Hive Mind
+artist(s): The Internet
+*****************************
+**********SONG INFO*********
+11
+song name: I Wanna Be Your Lover
+preview song: https://p.scdn.co/mp3-preview/8215394e91ff470f57564c37763951e8e8923a44?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Prince
+artist(s): Prince
+*****************************
+**********SONG INFO*********
+12
+song name: Don't Wanna Be Your Girl
+preview song: https://p.scdn.co/mp3-preview/79319393f1b3e19873dafbc42bd85d776709d1ea?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Wet
+artist(s): Wet
+*****************************
+**********SONG INFO*********
+13
+song name: I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix
+preview song: https://p.scdn.co/mp3-preview/cfa43091273e55dd3b0c46de7b40a6878142063c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Best Of Brandy
+artist(s): Brandy
+*****************************
+**********SONG INFO*********
+14
+song name: I Wanna Be Sedated - 2002 Remaster
+preview song: https://p.scdn.co/mp3-preview/cfa53952db880c0de0eeafd360d7960ac73ff52c?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Road to Ruin (Expanded 2005 Remaster)
+artist(s): Ramones
+*****************************
+**********SONG INFO*********
+15
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+**********SONG INFO*********
+16
+song name: I Don't Wanna Go
+preview song: null
+album: I'll Be The Branches
+artist(s): Chris Renzema
+*****************************
+**********SONG INFO*********
+17
+song name: If You Ever Wanna Be In Love - James Bay Spotify Session 2015
+preview song: null
+album: James Bay Spotify Session 2015
+artist(s): James Bay
+*****************************
+**********SONG INFO*********
+18
+song name: I Wanna Be Your Dog
+preview song: https://p.scdn.co/mp3-preview/e19c890c575f687e58fff7689b57c817fbda3e5e?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: The Stooges
+artist(s): The Stooges
+*****************************
+**********SONG INFO*********
+19
+song name: I Don't Wanna Be Funny Anymore
+preview song: https://p.scdn.co/mp3-preview/956c8b58aba8433f800f42b04be0a63e57b564d9?cid=3b576a51e7cd4c79825be5d48ba40ee2
+album: No Burden
+artist(s): Lucy Dacus
+*****************************
+**********MOVIE INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********MOVIE INFO*********
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country of Production: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+*****************************
+movie-this,spotify-this-song,do-what-it-says,do-what-it-says,
